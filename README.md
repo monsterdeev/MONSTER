@@ -1,4 +1,4 @@
-# [MONSTERBOT]# [MONSTERDEV](https://telegram.me/INSTAOFFICIAL)
+# [MONSTER]#  By[MONSTERDEV](https://telegram.me/INSTAOFFICIAL)
 
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot)**.
@@ -46,8 +46,8 @@ open new trminal and wirte these codes
 
 # Let's install the bot.
 open another terminal and write these
-git clone https://github.com/monsterdeev/MONSTERBOT.git
-cd MONSTERBOT
+git clone https://github.com/monsterdeev/MONSTER.git
+cd MONSTER
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -56,7 +56,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/monsterdeev/MONSTERBOT.git && cd MEero && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/monsterdeev/MONSTER.git && cd MONSTER && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
